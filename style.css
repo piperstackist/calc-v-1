@@ -1,0 +1,39 @@
+.calculator {
+	border: 2px solid white;
+	width: 260px;
+	border-radius: 5px;
+}
+
+#output {
+	background-color: white;
+	margin-top: 5px;
+	height: 40px;
+	width: 250px;
+	border-radius: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+.btn-area {
+	background-color: grey;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.output-fig {
+	font-size: 2em;
+	padding-top: 5px;
+	padding-left: 10px;
+	font-style: bold; 
+}
+
+.widebtn {
+	width: 93px;
+}
+
+a {
+	margin: 5px;
+	width: 5.7vw;
+	height: 5.7vw;
+}
